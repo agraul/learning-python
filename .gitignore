@@ -2,7 +2,7 @@
 pvs-bot/
 travellog/
 learntris/
-
+euler/
 
 # Byte-compiled / optimized files
 */__pycache__/
@@ -26,4 +26,3 @@ tutorials/python_crash_course/ehmatthes-pcc-80b08d0/
 
 # databases
 */db.sqlite3
-euler/
