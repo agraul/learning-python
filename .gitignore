@@ -1,0 +1,28 @@
+# own git repos
+pvs-bot/
+travellog/
+learntris/
+
+
+# Byte-compiled / optimized files
+*/__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Downloads
+tutorials/python_crash_course/ehmatthes-pcc-80b08d0/
+
+# Dolphin
+.directory
+
+# Kate
+*.kate-swp
+
+# env
+*env/
+
+# databases
+*/db.sqlite3

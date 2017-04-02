@@ -1,0 +1,7 @@
+In Python you can do arithmetic calculations
+In Python you can manipulate strings
+In Python you can create web applications
+In Python you can create network tools
+In Python you can create games
+In Python you can read data from and save to files
+In Python you can ...

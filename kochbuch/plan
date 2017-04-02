@@ -1,0 +1,12 @@
+1. 2 datenbanken (JSON?) 
+1.1 alle Rezepte
+1.2 wochenplan
+
+2. python application:
+2.1 kategorisieren
+2.2 zufallsgenerator
+2.3 wochenplan
+2.4 rezepte anlegen/veraendern
+2.5 nach zutaten sortieren
+
+3. gui/webfrontend fuer application
