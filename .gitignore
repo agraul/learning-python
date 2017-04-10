@@ -27,3 +27,8 @@ tutorials/python_crash_course/ehmatthes-pcc-80b08d0/
 
 # databases
 */db.sqlite3
+
+# pycharm
+*/.idea/
+#gui test picture 
+gui/cute-bat.png
