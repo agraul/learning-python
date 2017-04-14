@@ -1,0 +1,10 @@
+assignrole:
+    input = message
+removerole
+kick
+autorename
+striproles
+tempban
+setgame
+announce
+log

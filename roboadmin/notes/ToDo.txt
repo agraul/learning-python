@@ -1,0 +1,4 @@
+1. create list of functions
+2. create functions
+3. restructure functions
+4. create bot
